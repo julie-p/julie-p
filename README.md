@@ -9,7 +9,7 @@ Si mon profil github peut vous apprendre quelque chose sur moi c'est ceci : je s
 
 Je cherche aujourd'hui à mettre mes compétences et ma passion au service d'une entreprise porteuse d'un projet innovant, favorisant l'entraide et la cohésion d'équipe.
 
-💬 N'hésitez pas à faire un tour sur mon profil pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/)
+💬 N'hésitez pas à faire un tour sur mon profil pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) !
 
 ## Mes compétences 🤓 
 
