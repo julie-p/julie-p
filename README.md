@@ -1,14 +1,15 @@
 # Bonjour et bienvenue dans mon univers ! 👽
 
-Je suis Julie, développeuse Fullstack junior.
+Je suis Julie, développeuse Fullstack junior ✨
  
-Passionnée d'Art et de design depuis toujours, j'ai étudié la restauration d'Art et ai fait un petit détour par l'animation 2D avant de découvrir le développement web.
+Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019, alors que je cherchais une nouvelle manière d'exprimer ma créativité.
+Très vite passionnée par ce milieu, j'ai pris la décision de commit et de me réorienter cette année ! 
 
-Polyvalente et autonome, j'aime avant tout créer des sites accessibles, modernes et colorés, avec toujours l'utilisateur au coeur de ma réflexion.
-
-Quand je ne code pas, je passe beaucoup de temps à lire de la fantasy, à faire de la veille technologique, à pâtisser et à jouer aux jeux-vidéo. Je suis aussi très investie dans la protection animale et l'écologie, et m'intéresse beaucoup à la GreenTech et à l'histoire des femmes dans la STEM.
+Si mon profil github peut vous apprendre quelque chose sur moi c'est ceci : je suis débrouillarde. Je sais aller chercher le savoir là où il se trouve. Des tutos gratuits à Coursera / Udemy, aux formations intensives pendant le confinement, aux workshops via Discord, je ne compte plus les heures où j'ai travaillé jusque tard dans la nuit pour m'améliorer.
 
 Je cherche aujourd'hui à mettre mes compétences et ma passion au service d'une entreprise porteuse d'un projet innovant, favorisant l'entraide et la cohésion d'équipe.
+
+💬 N'hésitez pas à faire un tour sur mon profil pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/)
 
 ## Mes compétences 🤓 
 
