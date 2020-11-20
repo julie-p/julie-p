@@ -2,7 +2,7 @@
 
 Je suis Julie, développeuse Fullstack junior ✨
  
-Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019, alors que je cherchais une nouvelle manière d'exprimer ma créativité.
+Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité.
 Très vite passionnée par ce milieu, j'ai pris la décision de commit et de me réorienter cette année ! 
 
 Si mon profil github peut vous apprendre quelque chose sur moi c'est ceci : je suis débrouillarde. Je sais aller chercher le savoir là où il se trouve. Des tutos gratuits à Coursera / Udemy, aux formations intensives pendant le confinement, aux workshops via Discord, je ne compte plus les heures où j'ai travaillé jusque tard dans la nuit pour m'améliorer.
