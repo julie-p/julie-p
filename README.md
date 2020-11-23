@@ -25,7 +25,7 @@ Mon prochain but ? Trouver une équipe toute aussi passionnée que moi avec qui 
  ### Les technos que je suis en train d'apprendre :
  
   - PHP 
-  - Symphony
+  - Symfony
   - Wordpress
   - MySQL
   - VueJS
