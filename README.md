@@ -1,4 +1,4 @@
-![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-image.jpg)
+![banner image saying "Bienvenue.']()
 
 Je suis Julie, développeuse JavaScript / React ✨
  
