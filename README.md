@@ -32,12 +32,11 @@ Mon prochain but ? Trouver une équipe toute aussi passionnée que moi avec qui 
   
 ## Mes soft skills 😊 
 
+  - Créative
   - Bienveillante
   - Empathique
   - Déterminée
   - Ouverte d'esprit
-  - Esprit d'analyse et logique
-  - Créative
   
 ## Mes autres centres d'intérêt 💕 
 
