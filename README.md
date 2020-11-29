@@ -1,4 +1,4 @@
-![banner image](https://github.com/julie-p/julie-p/blob/main/Untitled%20design-Max-Quality.jpg)
+![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-read-me.jpg)
 
 Je suis Julie, développeuse JavaScript / React ✨
  
