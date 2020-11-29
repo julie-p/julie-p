@@ -1,4 +1,4 @@
-![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/Untitled%20design-Max-Quality%20(1).jpg)
+![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-header.jpg)
 
  Je suis Julie, développeuse Front-End ✨
 
