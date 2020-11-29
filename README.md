@@ -1,16 +1,16 @@
 ![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-header.jpg)
 
- Je suis Julie, développeuse Front-End ✨
+Je suis Julie, développeuse Front-End ✨
 
- Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité.
- Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter cette année ! 
+Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité.
+Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter cette année.
 
- Si mon parcours peut vous apprendre quelque chose sur moi c'est ceci : je suis débrouillarde. Je sais aller chercher le savoir là où il se trouve. Des tutos gratuits à Coursera / Udemy, aux formations intensives pendant le confinement, aux workshops via Discord, je ne compte plus les heures où j'ai travaillé jusque tard dans la nuit pour m'améliorer.
- Et je ne compte pas m’arrêter là ! Amoureuse du front-end, je commence également à me former en UI/UX Design. 
+Si mon parcours peut vous apprendre quelque chose sur moi c'est ceci : je suis débrouillarde. Je sais aller chercher le savoir là où il se trouve. Des tutos gratuits à Coursera / Udemy, aux formations intensives pendant le confinement, aux workshops via Discord, je ne compte plus les heures où j'ai travaillé jusque tard dans la nuit pour m'améliorer.
+Et je ne compte pas m’arrêter là ! Amoureuse du front-end, je commence également à me former professionnellement en UI/UX Design. 
 
- Mon prochain but ? Trouver une équipe toute aussi passionnée que moi avec qui partager tout ça ! Je cherche donc aujourd'hui à mettre mes compétences et ma passion au service d'une entreprise porteuse d'un projet innovant, favorisant l'entraide et la solidarité. Et sans me vanter, je fais en plus de super cookies !
+Mon prochain but ? Trouver une équipe toute aussi passionnée que moi avec qui partager tout ça. Je cherche donc aujourd'hui à mettre mes compétences et ma passion au service d'une entreprise porteuse d'un projet innovant, favorisant l'entraide et la solidarité. Et sans me vanter, je fais en plus de super cookies !
 
- 💬 N'hésitez pas à faire un tour sur mon [site](https://julie-developer.com) pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) si vous désirez travailler avec moi !
+💬 N'hésitez pas à faire un tour sur mon [site](https://julie-developer.com) pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) si vous désirez travailler avec moi !
 
 ## Mes compétences 🤓 
 
