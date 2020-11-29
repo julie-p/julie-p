@@ -1,4 +1,4 @@
-# Bonjour et bienvenue dans mon univers ! 👽
+![banner image](https://github.com/julie-p/julie-p/blob/main/Untitled%20design-Max-Quality.jpg)
 
 Je suis Julie, développeuse JavaScript / React ✨
  
