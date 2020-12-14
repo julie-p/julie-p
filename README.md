@@ -1,6 +1,6 @@
 ![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-header.jpg)
 
-Je suis Julie, développeuse Javascript - React ✨
+Je suis Julie, développeuse React ✨
 
 Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité.
 Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter cette année.
