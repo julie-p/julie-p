@@ -1,6 +1,6 @@
 ![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-header.jpg)
 
-Je suis Julie, développeuse fullstack React - NodeJS ✨
+Je suis Julie, développeuse fullstack JavaScript ✨
 
 Passionnée d'Art et de design depuis toujours, j'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité.
 Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter cette année.
@@ -16,13 +16,14 @@ Mon prochain but ? Trouver une équipe toute aussi passionnée que moi avec qui 
 
 ### Les technos avec lesquelles je travaille :
 
-  - HTML / CSS / Bootstrap
+  - HTML / CSS / Bootstrap / Material
   - JavaScript / JQuery
+  - TypeScript
+  - Angular
   - React / React Native 
   - NodeJS / Express
   - Jest
   - MongoDB / Firebase
-  - Wordpress
 
 ## Mes soft skills 
 
