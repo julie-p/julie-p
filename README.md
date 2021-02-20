@@ -38,9 +38,9 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Littérature fantasy et SF
   - Jeux-vidéo 
   - Animes / Mangas 
+  - Jouer aux échecs
   - Biologie Marine 
   - Pâtisserie 
-  - Militantisme écologie / protection animale  
 
 <!--
 **julie-p/julie-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
