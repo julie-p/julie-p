@@ -36,10 +36,10 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
 ## Mes autres centres d'intérêt 
 
   - Littérature fantasy et SF
+  - Écriture
   - Jeux-vidéo 
   - Animes / Mangas 
   - Jouer aux échecs
-  - Biologie Marine 
   - Pâtisserie 
 
 <!--
