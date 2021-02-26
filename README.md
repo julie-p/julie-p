@@ -40,6 +40,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Jeux-vidéo 
   - Animes / Mangas 
   - Jouer aux échecs
+  - Protection animale / Écologie
   - Pâtisserie 
 
 <!--
