@@ -14,7 +14,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
 
 ## Mes compétences 
 
-### Les technos avec lesquelles je travaille :
+### 💻 Les technos avec lesquelles je travaille :
 
   - HTML / CSS / Bootstrap / Material
   - JavaScript / JQuery
@@ -25,7 +25,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Jest
   - MongoDB / Firebase
 
-## Mes soft skills 
+## ⚡ Mes soft skills 
 
   - Créative
   - Bienveillante
@@ -33,7 +33,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Déterminée
   - Ouverte d'esprit
   
-## Mes autres centres d'intérêt 
+## 💖 Mes autres centres d'intérêt 
 
   - Littérature fantasy et SF
   - Écriture
@@ -42,6 +42,14 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Jouer aux échecs
   - Protection animale / Écologie
   - Pâtisserie 
+
+
+## 📈 Quelques stats
+![Julies's GitHub stats](https://github-readme-stats.vercel.app/api?username=julie-p&count_private=true&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-p&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **julie-p/julie-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
