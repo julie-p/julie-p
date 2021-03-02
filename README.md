@@ -14,8 +14,6 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
 
 ## 💻 Mes compétences 
 
-### Les technos avec lesquelles je travaille :
-
   - HTML / CSS / Bootstrap / Material
   - JavaScript / JQuery
   - TypeScript
