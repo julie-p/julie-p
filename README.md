@@ -12,9 +12,9 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
 
 💬 N'hésitez pas à faire un tour sur mon [site](https://julie-developer.com) pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) si vous désirez travailler avec moi !
 
-## Mes compétences 
+## 💻 Mes compétences 
 
-### 💻 Les technos avec lesquelles je travaille :
+### Les technos avec lesquelles je travaille :
 
   - HTML / CSS / Bootstrap / Material
   - JavaScript / JQuery
