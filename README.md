@@ -41,7 +41,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Protection animale / Écologie
   - Pâtisserie 
 
-
+<!--
 ## 📈 Quelques stats
 ![Julies's GitHub stats](https://github-readme-stats.vercel.app/api?username=julie-p&count_private=true&show_icons=true&theme=cobalt)
 
@@ -49,7 +49,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
 
 
 
-<!--
+
 **julie-p/julie-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
