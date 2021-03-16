@@ -22,6 +22,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - NodeJS / Express
   - Jest
   - MongoDB / Firebase
+  - Python
 
 ## ⚡ Mes soft skills 
 
