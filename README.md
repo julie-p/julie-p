@@ -5,11 +5,6 @@ Je suis Julie, développeuse fullstack JavaScript ✨
 J'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité et de me challenger.
 Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter en 2020.
 
-Si mon parcours peut vous apprendre quelque chose sur moi c'est ceci : je suis débrouillarde. Je sais aller chercher le savoir là où il se trouve. Des tutos gratuits à Coursera / Udemy, aux formations intensives pendant le confinement, aux workshops via Discord, je ne compte plus les heures où j'ai travaillé jusque tard dans la nuit pour m'améliorer.
-Et je n'ai pas l'intention de m'arrêter là !
-
-Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée que moi avec qui partager tout ça. Je cherche donc aujourd'hui à mettre mes compétences et ma passion au service d'une entreprise porteuse d'un projet innovant, favorisant l'entraide, la diversité et la solidarité. Et sans me vanter, je fais en plus de super cookies !
-
 💬 N'hésitez pas à faire un tour sur mon [site](https://julie-developer.com) pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) si vous désirez travailler avec moi !
 
 ## 💻 Mes compétences 
@@ -27,7 +22,7 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
 ## ⚡ Mes soft skills 
 
   - Créative
-  - Bienveillante
+  - Curieuse
   - Empathique
   - Déterminée
   - Ouverte d'esprit
@@ -39,8 +34,8 @@ Mon prochain but ? Trouver une équipe bienveillante et toute aussi passionnée 
   - Jeux-vidéo 
   - Animes / Mangas 
   - Jouer aux échecs
-  - Protection animale / Écologie
   - Pâtisserie 
+  - Roller quad
 
 <!--
 ## 📈 Quelques stats
