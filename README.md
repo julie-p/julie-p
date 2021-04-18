@@ -1,6 +1,6 @@
 ![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-header.jpg)
 
-Je suis Julie, développeuse fullstack JavaScript ✨
+Je suis Julie, développeuse full stack JavaScript ✨
 
 J'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité et de me challenger.
 Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter en 2020.
