@@ -6,16 +6,22 @@ J'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'e
 💬 N'hésitez pas à faire un tour sur mon [site](https://julie-developer.com) pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) si vous désirez travailler avec moi !
 
 ## 📝Ce que je peux faire pour vous :
-- UX Research
-- Design thinking
-- Prototypages
-- Wireframes
-- Sites audits
-- Sites redesign
-- Création & développement de sites internet
-- Création & développement d'applications mobiles
-- 
-## 💻 Mes compétences 
+  - UX Research
+  - Design thinking
+  - Prototypages
+  - Wireframes
+  - Sites audits
+  - Sites redesign
+  - Création & développement de sites internet
+  - Création & développement d'applications mobiles
+
+## 💡 Design:
+  - Figma
+  - Sketch
+  - Photoshop
+  - Adobe XD
+
+## 💻 Mes compétences techniques
 
   - HTML / CSS / Bootstrap / Material
   - JavaScript / JQuery
