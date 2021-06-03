@@ -1,6 +1,7 @@
 ![banner image saying "Bienvenue.'](https://github.com/julie-p/julie-p/blob/main/banner-header.jpg)
 
-Je suis Julie, développeuse fullstack JavaScript ✨
+Je suis Julie, UX/UI designer et développeuse web ✨
+
 J'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'exprimer ma créativité et de me challenger. Très vite passionnée par ce milieu, j'ai pris la décision de me réorienter en 2020. J'ai également décider de me former en UX/UI design pour augmenter en compétences, assouvir ma curiosité et être le plus autonome possible!
 
 💬 N'hésitez pas à faire un tour sur mon [site](https://julie-developer.com) pour voir mes projets et à me contacter via [Linkedin](https://www.linkedin.com/in/julie-paupert/) si vous désirez travailler avec moi !
