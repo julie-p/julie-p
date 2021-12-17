@@ -44,13 +44,12 @@ J'ai commencé à coder en 2019 alors que je cherchais une nouvelle manière d'e
   
 ## 💖 Mes autres centres d'intérêt 
 
-  - Littérature fantasy et SF
-  - Écriture
+  - Littérature fantasy, SF et polars
+  - Illustration
   - Jeux-vidéo 
-  - Animes / Mangas 
-  - Jouer aux échecs
   - Pâtisserie 
   - Roller quad
+  - Randonnées
 
 <!--
 ## 📈 Quelques stats
